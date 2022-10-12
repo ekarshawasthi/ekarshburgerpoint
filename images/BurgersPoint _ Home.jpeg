@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<!-- saved from url=(0041)https://www.burgerspoint.com/gallery.php# -->
+<html class="no-js" lang="zxx"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title> BurgersPoint | Home </title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="apple-touch-icon" href="https://www.burgerspoint.com/apple-touch-icon.html">
+        <link rel="shortcut icon" type="image/x-icon" href="./BurgersPoint _ Home_files/burgerspoint.png">
+        <!-- Place favicon.ico in the root directory -->
+        <!-- all css here -->
+        <!-- bootstrap v3.3.6 css -->
+        <link rel="stylesheet" href="./BurgersPoint _ Home_files/bootstrap.min.css">
+        <!-- font-awesome css -->
+        <link rel="stylesheet" href="./BurgersPoint _ Home_files/font-awesome.min.css">
+        <!-- animate css -->
+        <link rel="stylesheet" href="./BurgersPoint _ Home_files/animate.css">
+        <!-- Main Menu css -->
+        <link rel="stylesheet" href="./BurgersPoint _ Home_files/rsmenu-main.css">
+        <!-- rsmenu transitions css -->
+        <link rel="stylesheet" href="./BurgersPoint _ Home_files/rsmenu-transitions.css">
+        <!-- hover-min css -->
+        <link rel="stylesheet" href="./BurgersPoint _ Home_files/hover-min.css">
+        <!-- owl.carousel css -->
+        <link rel="stylesheet" href="./BurgersPoint _ Home_files/owl.carousel.css">
+        <!-- Slick css -->
+        <link rel="stylesheet" href="./BurgersPoint _ Home_files/slick.css">
+        <!-- slick-theme css -->
+        <link rel="stylesheet" href="./BurgersPoint _ Home_files/slick-theme.css">
+        <!-- magnific popup css -->
+        <link rel="stylesheet" type="text/css" href="./BurgersPoint _ Home_files/magnific-popup.css">
+        <!-- Switch style CSS -->
+        <link rel="stylesheet" href="./BurgersPoint _ Home_files/color-style.css">
+        <!-- style css -->
+        <link rel="stylesheet" href="./BurgersPoint _ Home_files/style.css">
+        <!-- switch color presets css -->
+        <link id="switch_style" href="./BurgersPoint _ Home_files/gallery.php" rel="stylesheet" type="text/css">
+        <!-- responsive css -->
+        <link rel="stylesheet" href="./BurgersPoint _ Home_files/responsive.css">
+    </head>
+    <body style="padding-top: 0px;">
+      
+        <!--Preload Start-->
+        <div id="loading" style="display: none;">
+          <div id="loading-center">
+          <div id="loading-center-absolute">
+          <div class="object" id="object_one"></div>
+          <div class="object" id="object_two"></div>
+          <div class="object" id="object_three"></div>
+          </div>
+          </div>
+        </div>
+        <!--Preload Start-->
+
+        <!--Header area start here-->
+        <header id="inner">
+            <div class="header-top">
+                <div class="container">
+                    <div class="row">
+					<div class="col-md-6 col-sm-6 col-xs-12">
+					<div class="social-icon">
+					<ul>
+					<!-- <li> <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a> </li>
+					<li> <a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a> </li>
+					<li> <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a> </li>
+					<li> <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a> </li> -->
+					<li><strong>OFFICE ADD.</strong> : H.no. 122 Sector 31 Gurugram Haryana 122001 </li>
+					</ul>
+					</div>
+					</div>
+					<div class="col-md-6 col-sm-6 col-xs-12">
+					<ul class="top-hour">
+					<li class="open-time" style="margin-right: 25px;"><strong> Mobile No </strong> : +91 9871048700 </li>
+					<li class="open-time"><strong> Email Id </strong> : duggal786@yahoo.co.in</li>
+					</ul>
+					</div>
+                    </div>
+                </div>
+            </div>
+            <div class="header-area">
+                <div class="container">
+                    <!-- Row -->
+                    <div class="row">
+                        <div class="col-md-2 col-sm-2 col-xs-12">
+                            <a href="https://www.burgerspoint.com/index.php">
+							<img src="./BurgersPoint _ Home_files/burgerspoint-white.png" alt="burgerspoint">
+							</a>
+                        </div>
+                        <div class="col-md-10 col-sm-10 col-xs-12">
+                            <div class="row margin">
+                               <a class="rs-menu-toggle"><i class="fa fa-bars"></i>Menu</a>
+                               <nav class="rs-menu onrs-menu">
+                                  <ul class="nav-menu">
+									<li><a href="https://www.burgerspoint.com/index.php" class="home">Home</a></li>
+									<li><a href="https://www.burgerspoint.com/about-us.php">About Us</a></li>
+									<li><a href="https://www.burgerspoint.com/menu.php">Menu</a></li>
+									<li><a href="https://www.burgerspoint.com/franchise.php"> Franchise Details </a></li>
+									<li><a href="https://www.burgerspoint.com/franchise-list.php"> Franchise List  </a></li>
+									<li class="active"><a href="https://www.burgerspoint.com/gallery.php" class="active"> Gallery  </a></li>
+									<li><a href="https://www.burgerspoint.com/contact.php">Contact</a></li>
+                                  </ul>
+                               </nav>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Row -->
+                </div>
+            </div>     
+        </header>
+
+        <!--Header area end here-->        <!-- Banner Section Start Here -->
+        <div class="inner-banner"> <img src="./BurgersPoint _ Home_files/13.jpg" alt="">
+          <div class="title">
+            <h1> Gallery </h1>
+            <span><a href="https://www.burgerspoint.com/index.php">Home</a> <i class="fa fa-bolt" aria-hidden="true"></i> <span class="last"> Gallery</span></span> </div>
+        </div>
+        <!-- Banner Section end Here --> 
+<style>
+.galleryclass{
+	height: 270px;
+}
+</style>
+        <!-- Shop Page Start Here -->
+        <div class="shop-page-area spc-equal">
+          <div class="container">
+            
+            <div class="row">
+              <div class="product-list">
+			  
+                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
+                  <div class="single-details">
+                    <div class="images"> <a href="./BurgersPoint _ Home_files/gallery.php"><img src="./BurgersPoint _ Home_files/sector-15.jpeg" alt="" class="galleryclass"></a>
+                      <div class="overley">
+                        <div class="winners-details">
+                          <ul class="product-info">
+                            <li><a href="./BurgersPoint _ Home_files/gallery.php"><i class="fa fa-compress" aria-hidden="true"></i></a></li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="triangle_left"></div>
+                    <h3><a href="./BurgersPoint _ Home_files/gallery.php">SECTOR 15 OUTLET MAIN</a></h3>
+                  </div>
+                </div>
+				
+				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
+                  <div class="single-details">
+                    <div class="images"> <a href="./BurgersPoint _ Home_files/gallery.php"><img src="./BurgersPoint _ Home_files/SONIPAT-1.jpeg" alt="" class="galleryclass"></a>
+                      <div class="overley">
+                        <div class="winners-details">
+                          <ul class="product-info">
+                            <li><a href="./BurgersPoint _ Home_files/gallery.php"><i class="fa fa-compress" aria-hidden="true"></i></a></li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="triangle_left"></div>
+                    <h3><a href="./BurgersPoint _ Home_files/gallery.php">SONIPAT OUTLET</a></h3>
+                  </div>
+                </div>
+				
+				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
+                  <div class="single-details">
+                    <div class="images"> <a href="./BurgersPoint _ Home_files/gallery.php"><img src="./BurgersPoint _ Home_files/BARILLY.jpeg" alt="" class="galleryclass"></a>
+                      <div class="overley">
+                        <div class="winners-details">
+                          <ul class="product-info">
+                            <li><a href="./BurgersPoint _ Home_files/gallery.php"><i class="fa fa-compress" aria-hidden="true"></i></a></li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="triangle_left"></div>
+                    <h3><a href="./BurgersPoint _ Home_files/gallery.php">BARILLY OUTLET</a></h3>
+                  </div>
+                </div>
+				
+				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
+                  <div class="single-details">
+                    <div class="images"> <a href="./BurgersPoint _ Home_files/gallery.php"><img src="./BurgersPoint _ Home_files/BARILLY-1.jpeg" alt="" class="galleryclass"></a>
+                      <div class="overley">
+                        <div class="winners-details">
+                          <ul class="product-info">
+                            <li><a href="./BurgersPoint _ Home_files/gallery.php"><i class="fa fa-compress" aria-hidden="true"></i></a></li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="triangle_left"></div>
+                    <h3><a href="./BurgersPoint _ Home_files/gallery.php">  </a></h3>
+                  </div>
+                </div>
+				
+				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
+                  <div class="single-details">
+                    <div class="images"> <a href="./BurgersPoint _ Home_files/gallery.php"><img src="./BurgersPoint _ Home_files/BARILLY-2.jpeg" alt="" class="galleryclass"></a>
+                      <div class="overley">
+                        <div class="winners-details">
+                          <ul class="product-info">
+                            <li><a href="./BurgersPoint _ Home_files/gallery.php"><i class="fa fa-compress" aria-hidden="true"></i></a></li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="triangle_left"></div>
+                    <h3><a href="./BurgersPoint _ Home_files/gallery.php">  </a></h3>
+                  </div>
+                </div>
+				
+				
+				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
+                  <div class="single-details">
+                    <div class="images"> <a href="./BurgersPoint _ Home_files/gallery.php"><img src="./BurgersPoint _ Home_files/office.jpeg" alt="" class="galleryclass"></a>
+                      <div class="overley">
+                        <div class="winners-details">
+                          <ul class="product-info">
+                            <li><a href="./BurgersPoint _ Home_files/gallery.php"><i class="fa fa-compress" aria-hidden="true"></i></a></li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="triangle_left"></div>
+                    <h3><a href="./BurgersPoint _ Home_files/gallery.php">  </a></h3>
+                  </div>
+                </div>
+				
+				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
+                  <div class="single-details">
+                    <div class="images"> <a href="./BurgersPoint _ Home_files/gallery.php"><img src="./BurgersPoint _ Home_files/office-1.jpeg" alt="" class="galleryclass"></a>
+                      <div class="overley">
+                        <div class="winners-details">
+                          <ul class="product-info">
+                            <li><a href="./BurgersPoint _ Home_files/gallery.php"><i class="fa fa-compress" aria-hidden="true"></i></a></li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="triangle_left"></div>
+                    <h3><a href="./BurgersPoint _ Home_files/gallery.php">  </a></h3>
+                  </div>
+                </div>
+				
+				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
+                  <div class="single-details">
+                    <div class="images"> <a href="./BurgersPoint _ Home_files/gallery.php"><img src="./BurgersPoint _ Home_files/office-2.jpeg" alt="" class="galleryclass"></a>
+                      <div class="overley">
+                        <div class="winners-details">
+                          <ul class="product-info">
+                            <li><a href="./BurgersPoint _ Home_files/gallery.php"><i class="fa fa-compress" aria-hidden="true"></i></a></li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="triangle_left"></div>
+                    <h3><a href="./BurgersPoint _ Home_files/gallery.php">  </a></h3>
+                  </div>
+                </div>
+				
+				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
+                  <div class="single-details">
+                    <div class="images"> <a href="./BurgersPoint _ Home_files/gallery.php"><img src="./BurgersPoint _ Home_files/office-3.jpeg" alt="" class="galleryclass"></a>
+                      <div class="overley">
+                        <div class="winners-details">
+                          <ul class="product-info">
+                            <li><a href="./BurgersPoint _ Home_files/gallery.php"><i class="fa fa-compress" aria-hidden="true"></i></a></li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="triangle_left"></div>
+                    <h3><a href="./BurgersPoint _ Home_files/gallery.php">  </a></h3>
+                  </div>
+                </div>
+				
+				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
+                  <div class="single-details">
+                    <div class="images"> <a href="./BurgersPoint _ Home_files/gallery.php"><img src="./BurgersPoint _ Home_files/office-4.jpeg" alt="" class="galleryclass"></a>
+                      <div class="overley">
+                        <div class="winners-details">
+                          <ul class="product-info">
+                            <li><a href="./BurgersPoint _ Home_files/gallery.php"><i class="fa fa-compress" aria-hidden="true"></i></a></li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="triangle_left"></div>
+                    <h3><a href="./BurgersPoint _ Home_files/gallery.php">  </a></h3>
+                  </div>
+                </div>
+				
+				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
+                  <div class="single-details">
+                    <div class="images"> <a href="./BurgersPoint _ Home_files/gallery.php"><img src="./BurgersPoint _ Home_files/outlet-1.jpeg" alt="" class="galleryclass"></a>
+                      <div class="overley">
+                        <div class="winners-details">
+                          <ul class="product-info">
+                            <li><a href="./BurgersPoint _ Home_files/gallery.php"><i class="fa fa-compress" aria-hidden="true"></i></a></li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="triangle_left"></div>
+                    <h3><a href="./BurgersPoint _ Home_files/gallery.php">  </a></h3>
+                  </div>
+                </div>
+				
+				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
+                  <div class="single-details">
+                    <div class="images"> <a href="./BurgersPoint _ Home_files/gallery.php"><img src="./BurgersPoint _ Home_files/outlet-2.jpeg" alt="" class="galleryclass"></a>
+                      <div class="overley">
+                        <div class="winners-details">
+                          <ul class="product-info">
+                            <li><a href="./BurgersPoint _ Home_files/gallery.php"><i class="fa fa-compress" aria-hidden="true"></i></a></li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="triangle_left"></div>
+                    <h3><a href="./BurgersPoint _ Home_files/gallery.php">  </a></h3>
+                  </div>
+                </div>
+				
+				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
+                  <div class="single-details">
+                    <div class="images"> <a href="./BurgersPoint _ Home_files/gallery.php"><img src="./BurgersPoint _ Home_files/outlet-3.jpeg" alt="" class="galleryclass"></a>
+                      <div class="overley">
+                        <div class="winners-details">
+                          <ul class="product-info">
+                            <li><a href="./BurgersPoint _ Home_files/gallery.php"><i class="fa fa-compress" aria-hidden="true"></i></a></li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="triangle_left"></div>
+                    <h3><a href="./BurgersPoint _ Home_files/gallery.php">  </a></h3>
+                  </div>
+                </div>
+				
+				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
+                  <div class="single-details">
+                    <div class="images"> <a href="./BurgersPoint _ Home_files/gallery.php"><img src="./BurgersPoint _ Home_files/outlet-4.jpeg" alt="" class="galleryclass"></a>
+                      <div class="overley">
+                        <div class="winners-details">
+                          <ul class="product-info">
+                            <li><a href="./BurgersPoint _ Home_files/gallery.php"><i class="fa fa-compress" aria-hidden="true"></i></a></li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="triangle_left"></div>
+                    <h3><a href="./BurgersPoint _ Home_files/gallery.php">  </a></h3>
+                  </div>
+                </div>
+				
+              </div>
+            </div>
+           
+          </div>
+        </div>
+        <!-- Shop Page End Here --> 
+
+        <!-- Start scrollUp  -->
+        <div id="return-to-top" style="display: none;"> <span>Top</span> </div>
+        <!-- End scrollUp  -->
+
+<footer class="spc-large">
+  <div class="container"> 
+    
+    <!-- Footer Logo  -->
+    
+    <div class="logo text-center"> <a href="https://www.burgerspoint.com/index.php"> 
+	<img src="./BurgersPoint _ Home_files/burgerspoint.png" alt="logo"> 
+	</a> 
+	</div>
+    
+    <!-- Footer Social Icon  -->
+    
+    
+    <div class="social-icon text-center">
+      <ul class="text-center">
+        <!-- 
+		<li> <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a> </li>
+        <li> <a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a> </li>
+        <li> <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a> </li>
+        <li> <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a> </li>
+		-->
+      </ul>
+    </div>
+	
+    <div class="row">
+      <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 col-md-offset-1">
+        <div class="address">SHOP ADD. :  Shop No 108 Sector 15 Part 2 Huda Mkt. Gurugram </div>
+		<hr>
+		<div class="address">OFFICE  ADD. :  H.no. 122 Sector 31 Gurugram Haryana 122001 </div>
+      </div>
+      <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+        <div class="phone"> 
+		<a href="tel:+91 9871048700"> +91 9871048700</a> 
+		</div>
+      </div>
+      <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+        <div class="email"> 
+		<a href="mailto:duggal786@yahoo.co.in">duggal786@yahoo.co.in</a> 
+		</div>
+      </div>
+      <div class="copyright text-center">© 2022 <span> burgerspoint.</span> All Rights Reserved. </div>
+    </div>
+  </div>
+</footer>
+
+<!-- Footer Area Section End Here --> 
+
+
+<!-- all js here --> 
+
+<script src="./BurgersPoint _ Home_files/jquery.min.js.download"></script> 
+<!-- Menu js --> 
+<script src="./BurgersPoint _ Home_files/rsmenu-main.js.download"></script> 
+<!-- bootstrap js --> 
+<script src="./BurgersPoint _ Home_files/bootstrap.min.js.download"></script> 
+<!-- op nav js --> 
+<script src="./BurgersPoint _ Home_files/jquery.nav.js.download"></script> 
+<!-- wow js --> 
+<script src="./BurgersPoint _ Home_files/wow.min.js.download"></script> 
+<!-- jquery.counterup js --> 
+<script src="./BurgersPoint _ Home_files/jquery.counterup.min.js.download"></script> 
+<script src="./BurgersPoint _ Home_files/waypoints.min.js.download"></script> 
+<!-- slick-theme js --> 
+<script src="./BurgersPoint _ Home_files/slick.min.js.download"></script> 
+<!-- isotope.pkgd.min js --> 
+<script src="./BurgersPoint _ Home_files/isotope.pkgd.min.js.download"></script> 
+<!-- imagesloaded.pkgd.min js --> 
+<script src="./BurgersPoint _ Home_files/imagesloaded.pkgd.min.js.download"></script> 
+<!-- magnific popup --> 
+<script src="./BurgersPoint _ Home_files/jquery.magnific-popup.min.js.download"></script> 
+<!-- owl.carousel js --> 
+<script src="./BurgersPoint _ Home_files/owl.carousel.min.js.download"></script> 
+<!-- parallax js --> 
+<script src="./BurgersPoint _ Home_files/parallax.js.download"></script> 
+<!--jquery.datetimepicker.js--> 
+<script src="./BurgersPoint _ Home_files/jquery.datetimepicker.full.min.js.download"></script> 
+<!-- Date Picker Custom js --> 
+<script src="./BurgersPoint _ Home_files/datepicker.js.download"></script> 
+<!-- Reservation form  --> 
+<script src="./BurgersPoint _ Home_files/reservation-form.js.download"></script> 
+<!-- Switch js --> 
+<script src="./BurgersPoint _ Home_files/color-style.js.download"></script> 
+<!-- main js --> 
+<script src="./BurgersPoint _ Home_files/main.js.download"></script>
+
+
+
+</body></html>
